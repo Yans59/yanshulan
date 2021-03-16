@@ -1,6 +1,6 @@
 ## Illustris TNG
 The TNG simulation is from a starting redshift of  z = 127 to the present day , z = 0.
-The TNG50 enables a mass resolution which is more than a hundred times better than in the TNG300 simulation , the TNG50-1 is the highest resolution realizations , including $2\times2160^3$ resolution elements.
+The TNG50 enables a mass resolution which is more than a hundred times better than in the TNG300 simulation , the TNG50-1 is the highest resolution realizations , including $$ 2\times2160^3 $$ resolution elements.
 
 ## Data
 (More details is in the [TNG data specifications webpage](https://www.tng-project.org/data/docs/specifications/))
